@@ -1,3 +1,6 @@
+# THIS REPOSITORY HAS BEEN SUPERCEDED BY FT_techTest_FINAL AND WILL BE DELETED!!!
+
+
 # FT_techTest
 
 This application returns a list of FT headlines by querying the FT Developers API.
