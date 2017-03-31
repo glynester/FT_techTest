@@ -50,8 +50,8 @@
         <div class="col-sm-8">
           <section>
             <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-            <script src='js/interface.js'></script>
-            <script src='js/FtSearch.js'></script>
+            <script src='javascripts/interface.js'></script>
+            <script src='javascripts/FtSearch.js'></script>
           </section>
         </div>
         <div class="col-sm-2"></div>
